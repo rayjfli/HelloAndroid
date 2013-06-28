@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello Android</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello Android!</string>
+    <string name="button_text_1">Load Music</string>
+    <string name="button_text_2">Process Key</string>    
+    <string name="str_1">Default</string>
+	<string name="str_2">Public Key</string>
+</resources>
